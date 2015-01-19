@@ -90,8 +90,6 @@ http://unifoundry.com/unifont.html
 
 ## License
 
-These font files are licensed under the GNU General Public License,
-either Version 2 or (at your option) a later version, with the exception
-that embedding the font in a document does not in itself constitute a
-violation of the GNU GPL. The full terms of the license are in LICENSE.txt.
+Copyright (C) 2014 Roman Czyborra, Paul Hardy, Qianqian Fang, Andrew Miller, et al.
 
+Licensed under the GNU General Public License; either version 2, or (at your option) a later version, with the GNU Font Embedding Exception.
